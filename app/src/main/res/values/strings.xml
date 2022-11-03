@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aurelian Quill</string>
+    <string name="image_chooser">Choose Image</string>
+
+    <string name="facebook_app_id">1492241034547928</string>
+    <string name="fb_login_protocol_scheme">fb1492241034547928</string>
+</resources>
